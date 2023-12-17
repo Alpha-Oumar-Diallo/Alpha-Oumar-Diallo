@@ -1,9 +1,9 @@
 bonsoir, je me nomme Alpha Oumar Diallo 
-je suis etudiant en Baccalaureat informatique 1er cycle- 👋 Hi, I’m @Alpha-Oumar-Diallo
-- je suis interesssé de votre formation dans ce domaine👀 I’m interested in ...
-- je parle le francais et je ne comprend que le francais🌱 I’m currently learning ...
-- 💞️ je suis currier de collaborer avec vous I’m looking to collaborate on ...
-- 📫 j'aime bien le domaine How to reach me ...
+je suis etudiant en Baccalaureat informatique 1er cycle
+- je suis interesssé de votre formation dans ce domaine.
+- je parle le francais et je ne comprend que le francais.
+- 💞️ je suis currier de collaborer avec vous.
+- 📫 j'aime bien le domaine 
 
 <!---
 Alpha-Oumar-Diallo/Alpha-Oumar-Diallo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
